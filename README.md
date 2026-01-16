@@ -2,3 +2,4 @@
 git labs for learning and ITI
 ![image](commands.png)
 ![image](images/commands.png)
+![image](/images/commands.png)
